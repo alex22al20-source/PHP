@@ -10,7 +10,7 @@ $SegundosRestantes= $SegundosTotales % 3600;
 $minutos= intval($SegundosRestantes / 60);
 $segundos= $SegundosRestantes % 60;
 
-echo "$SegundosTotales equivalen a $horas hora(s), $minutos minuto(s), $segundos segundo(s)";
+echo "$SegundosTotales segundos equivalen a $horas hora(s), $minutos minuto(s), $segundos segundo(s)";
 
 
 ?>
