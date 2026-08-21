@@ -85,3 +85,7 @@ $lado= trim(fgets(STDIN));
 echo "Dado un triangulo equilatero de $lado centimetros, su perimetro es: ". perimetro($lado). " centiemtros y su area es: ". area($lado);
 
 ?>
+
+
+
+
